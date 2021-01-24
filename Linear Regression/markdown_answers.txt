@@ -1,0 +1,2 @@
+1c. The  variables are generally chemical aspects of the wine held in numeric types. Becuase of this they shold all work well with regression excpet the 'Unnmaed column which appears to just be a wine ID and the quality column as it could be too subjective to be useful.
+
